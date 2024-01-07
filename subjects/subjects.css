@@ -174,7 +174,7 @@ body {
 	width: 100%;
 	padding: 20px;
 	border-radius: 50px;
-	border: 1px solid #FA4B37;
+	border: 1px solid #37d6fa;
 	font-size: 15px;
 	color: #272529;
 	font-family: cursive;
@@ -182,7 +182,7 @@ body {
 }
 
 .cbox .det a:hover{
-	background: linear-gradient(to right, #FA4B37, #DF2771);
+	background: linear-gradient(to right, #37f7fac4, #277adf);
 	color: white;
 }
 
